@@ -1,5 +1,7 @@
 ## React
 
+This project is live at https://imdbapi.bytexl.live/
+
 This is a simple React application. This application serves as a basic template for a react applications.  
 This project is bootstrapped with [Vite](https://vitejs.dev/guide/).
 
